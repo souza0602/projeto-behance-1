@@ -1,0 +1,261 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+    background-color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#navbar {
+    width: 1366px;
+    height: 70px;
+    background-color: #ffffff;
+    padding-top: 1px;
+    margin: auto;
+}
+
+#navbar-centralizer {
+    width: 1250px;
+    height: 40px;
+    background-color: #ffffff;
+    margin: 20px auto;
+}
+
+#logo {
+    width: 180px;
+    height: 20px;
+    color: rgb(0, 0, 0);
+    float: left;
+    font-weight: bold;
+    margin-right: 40px;
+}
+
+#btn {
+    float: right;
+    color: rgb(0, 0, 0);
+    margin-left: 40px;
+    font-weight: bold;
+    color: black;
+}
+
+#banner {
+    width: 1366px;
+    height: 600px;
+    background-color: #ECF2F1;  
+    margin: auto;
+    padding-top: 1px;
+}
+
+#banner-centralizer-cont1{
+    width: 490px;
+    height: 400px;
+    margin-left: 60px;
+    margin-top: 115px;
+}
+
+#banner-cont1 {
+    text-align: center;
+    text-align: left;;
+    line-height: 35px;
+}
+
+.btn-learn {
+    background-color: white;
+    border-radius: 20px;
+    width: 140px;
+    text-align: center;
+    padding: 10px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #000000
+    
+}
+
+#menu a:hover {
+    background-color: rgb(231, 231, 231);
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+#content {
+    width: 1366px;
+    height: 420px;
+    background-color:#C4C4C4;
+    margin: auto;
+    padding: 1px;
+}
+
+#content-centralizer { 
+    width: 1249px;
+    height: 300px;
+    margin: 60px auto;
+    padding: 1px;
+}
+
+#section1 {
+    width: 461px;
+    height: 360px;
+    float: left;
+}
+
+#section1-cont {
+    line-height: 35px; 
+}
+
+.section1-cont-btn {
+    border-radius: 20px;
+    width: 140px;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+
+#section2 {
+    width: 362.50px;
+    height: 360px;
+    float: left;
+    margin-left: 30px;
+    
+}
+
+#section2-cont1 {
+    width: 362.50px;
+    line-height: 30px;
+}
+
+#section2-cont2 {
+    width: 362.50px;
+    height: 180px;
+    line-height: 30px;
+}
+
+#section3 {
+    width: 362.50px;
+    height: 360px;
+    float: right;
+}
+
+#section3-cont1 {
+    width: 362.50px;
+    height: 360px;
+    line-height: 30px;
+}
+
+#section3-cont2 {
+    width: 362.50px;
+    line-height: 30px;
+}
+
+#galleries-title-centralizer {
+    width: 300px;
+    height: 120px;
+    margin: auto;
+}
+
+.galleries-title {
+    text-align: center;
+    line-height: 30px;
+}
+
+.galleries-title h2{
+    margin: 0;
+}
+
+#galleries-title {
+    margin-top: 60px;
+}
+
+
+
+#galleries {
+    width: 1366px;
+    height: 885px;
+    margin: auto;
+    margin-top: 40px;
+    background-color: lightgrey;
+}
+
+#galleries-cont-centralizer {
+    width: 1230px;
+    height: 890px;
+    margin: auto;
+
+}
+
+#galleries-cont1 {
+    width: 800px;
+    height: 430px;
+    float: left;
+    background-color: #C4C4C4;
+}
+
+#galleries-cont2 {
+    width: 400px;
+    height: 200px;
+    float: right;
+    background-color: #C4C4C4;
+}
+
+#galleries-cont3 {
+    width: 400px;
+    height: 200px;
+    margin-top: 30px;
+    float: right;
+    background-color: #C4C4C4;
+}
+
+#galleries-cont4 {
+    width: 800px;
+    height: 430px;
+    float: right;
+    margin-top: 25px;
+    background-color: #C4C4C4;
+}
+
+#galleries-cont5 {
+    width: 400px;
+    height: 200px;
+    float: left;
+    margin-top: 25px;
+    background-color: #C4C4C4;
+}
+
+#galleries-cont6 {
+    width: 400px;
+    height: 200px;
+    margin-top: 30px;
+    float: left;
+    background-color: #C4C4C4;
+}
+
+#form {
+    width: 1366px;
+    height: 500px;
+    margin: auto;
+    margin-top: 60px;
+    padding-top: 1px;
+    background-color: #C4C4C4;
+}
+
+#form-centralizer {
+    width: 564px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 119px;
+}
+
+#exampleFormControlTextarea1 {
+    height: 110px;
+}
+
+.mb-3 {
+    line-height: 30px;
+    margin: 30px;
+}
+
+.title-form h3 {
+    text-align: center;
+}
+
